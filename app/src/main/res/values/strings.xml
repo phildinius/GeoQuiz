@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">Indeed!</string>
+    <string name="false_button">Perhaps not&#8230;</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Sure!</string>
+    <string name="incorrect_toast">Oh &#8230; no.</string>
+    <string name="action_settings">Settings</string>
+    <string name="question_one">The Weasleys have seven children.</string>
+    <string name="question_two">Dumbledore is over two hundred years in age.</string>
+    <string name="question_three">Fluffy, the three headed dog, is hiding in the Chamber of Secrets.</string>
+    <string name="question_four">Professor McGonagall delivers the sword of Gryffindor to Harry Potter in the last book.</string>
+    <string name="question_five">Voldemort always wanted to teach at Hogwarts.</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+
+</resources>
